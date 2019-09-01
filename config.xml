@@ -2,7 +2,7 @@
 <widget id="com.technoclassrooms.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Technoclassrooms</name>
     <description>Technoclassrooms app</description>
-    <author email="information@technoclassrooms.com" href="https://app.technoclassrooms.com/">Technoclassrooms Mobile team</author>
+    <author email="information@technoclassrooms.com" href="https://app.technoclassrooms.com/">Technoclassrooms Mobile teams</author>
     <content src="index.html" />
     <access origin="*" />
     <access launch-external="yes" origin="tel:*" />
